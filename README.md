@@ -1,5 +1,5 @@
 ## Getting Started
-You can download the image with dockerhub or clone the source and build
+You can download the image with dockerhub or clone the source and build
 #### Pull From Dockerhub
 `$ docker pull freddy50806/pycontw:2019-dev`
 
